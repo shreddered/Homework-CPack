@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../solver_lib/solver.h
+cmath
+-
+
+/home/dima/github/reports/formatter/formatter_ex_lib/formatter_ex.h
+string
+-
+iostream
+-
+
+/home/dima/github/reports/formatter/solver_application/equation.cpp
+iostream
+-
+formatter_ex.h
+/home/dima/github/reports/formatter/solver_application/formatter_ex.h
+solver.h
+/home/dima/github/reports/formatter/solver_application/solver.h
+

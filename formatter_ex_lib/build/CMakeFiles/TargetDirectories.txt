@@ -1,0 +1,4 @@
+/home/dima/github/reports/tmp/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/dima/github/reports/tmp/formatter_ex_lib/build/CMakeFiles/formatter.dir
+/home/dima/github/reports/tmp/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/dima/github/reports/tmp/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir

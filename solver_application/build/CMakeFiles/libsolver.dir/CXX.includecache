@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dima/github/reports/formatter/solver_lib/solver.cpp
+solver.h
+/home/dima/github/reports/formatter/solver_lib/solver.h
+stdexcept
+-
+
+/home/dima/github/reports/formatter/solver_lib/solver.h
+cmath
+-
+

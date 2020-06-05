@@ -1,0 +1,11 @@
+/home/dima/github/reports/formatter/build/CMakeFiles/rebuild_cache.dir
+/home/dima/github/reports/formatter/build/CMakeFiles/edit_cache.dir
+/home/dima/github/reports/formatter/build/hello_world_application/CMakeFiles/edit_cache.dir
+/home/dima/github/reports/formatter/build/hello_world_application/CMakeFiles/hello_world.dir
+/home/dima/github/reports/formatter/build/hello_world_application/CMakeFiles/formatter.dir
+/home/dima/github/reports/formatter/build/hello_world_application/CMakeFiles/rebuild_cache.dir
+/home/dima/github/reports/formatter/build/hello_world_application/CMakeFiles/formatter_ex.dir
+/home/dima/github/reports/formatter/build/solver_application/CMakeFiles/rebuild_cache.dir
+/home/dima/github/reports/formatter/build/solver_application/CMakeFiles/libsolver.dir
+/home/dima/github/reports/formatter/build/solver_application/CMakeFiles/edit_cache.dir
+/home/dima/github/reports/formatter/build/solver_application/CMakeFiles/solver.dir
