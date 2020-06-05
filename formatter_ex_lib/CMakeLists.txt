@@ -10,6 +10,11 @@ if (NOT TARGET formatter_ex)
     add_library(formatter_ex STATIC ${CMAKE_CURRENT_LIST_DIR}/formatter_ex.cpp)
 
     target_link_libraries(formatter_ex formatter)
+
+    install(TARGETS formatter_ex
+        LIBRARY DESTINATION lib
+        ARCHIVE DESTINATION lib
+    )
 endif()
 
 include_directories(${CMAKE_CURRENT_LIST_DIR})
