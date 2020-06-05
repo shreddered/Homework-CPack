@@ -1,0 +1,18 @@
+os:
+    - linux
+
+addons:
+    apt:
+        - cmake
+        - cmake-data
+
+language: cpp
+
+compiler:
+    - clang
+    - gcc
+
+script:
+    - cmake -Bbuild -DCMAKE_INSTALL_PREFIX=install
+    - cmake --build build/
+    - cmake --build build/ --target install
