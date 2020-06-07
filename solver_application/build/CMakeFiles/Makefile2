@@ -142,8 +142,8 @@ clean: CMakeFiles/libsolver.dir/clean
 # Target rules for target CMakeFiles/solver.dir
 
 # All Build rule for target.
-CMakeFiles/solver.dir/all: CMakeFiles/libsolver.dir/all
 CMakeFiles/solver.dir/all: CMakeFiles/formatter.dir/all
+CMakeFiles/solver.dir/all: CMakeFiles/libsolver.dir/all
 CMakeFiles/solver.dir/all: CMakeFiles/formatter_ex.dir/all
 	$(MAKE) -f CMakeFiles/solver.dir/build.make CMakeFiles/solver.dir/depend
 	$(MAKE) -f CMakeFiles/solver.dir/build.make CMakeFiles/solver.dir/build
